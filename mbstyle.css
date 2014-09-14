@@ -1,0 +1,30 @@
+#header
+ {
+    background-color: #00BFFF;
+	color: green;
+    font-weight: bold;
+    padding: 4px;
+    text-align: left;
+	text-decoration: none;
+    text-transform: none;
+  }
+
+.img
+  {
+	margin: 20px 25px 5px 5px;
+    padding: 10px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	box-shadow: 5px 5px 5px #888888;
+	
+  }
+
+ .nivo-controlNav
+  {
+	curser: pointer;
+	position: relative;
+	Z-index: 99;
+  }
